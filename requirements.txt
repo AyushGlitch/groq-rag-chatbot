@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+llama-parse 
+llama-index-core
+llama-index-readers-file
+# fastembed
+qdrant_client
+python-dotenv
+chainlit
+langchain-ollama
